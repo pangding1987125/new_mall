@@ -1,6 +1,7 @@
 idea server : http://idea.java.sx
 
 
+
 mysql root password:			mysql
 Action 22:31:01: INSTALL. 
 1: MySQL Server 5.7 2: {81B27388-3733-4B65-8D84-AD9C9113B498} 
