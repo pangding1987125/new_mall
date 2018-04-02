@@ -1,0 +1,16 @@
+com\mmall\dao\OrderMapper.class
+com\mmall\dao\ProductMapper.class
+com\mmall\dao\ShippingMapper.class
+com\mmall\pojo\OrderItem.class
+com\mmall\pojo\Cart.class
+com\mmall\pojo\PayInfo.class
+com\mmall\pojo\Category.class
+com\mmall\dao\PayInfoMapper.class
+com\mmall\pojo\Shipping.class
+com\mmall\pojo\User.class
+com\mmall\dao\UserMapper.class
+com\mmall\dao\CartMapper.class
+com\mmall\pojo\Product.class
+com\mmall\dao\CategoryMapper.class
+com\mmall\pojo\Order.class
+com\mmall\dao\OrderItemMapper.class
